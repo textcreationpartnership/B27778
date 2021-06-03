@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to that malicious letter, pretended to be sent from Brussels, by a near attendant on his Majesties person, &amp;c.</title>
+            <author>N. P.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27778</idno><idno type="EEBO-CITATION">99888414</idno>
+  <idno type="VID">201751</idno>
+  <idno type="EEBO-PROQUEST">2248545332</idno>
+  
+            <idno type="STC">ESTC R043526</idno>
+            <idno type="STC">Wing P88</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[179]</idno>
+            <idno type="STC">ESTC R043526</idno>
+            <idno type="STC">ESTC R229721</idno>
+            <idno type="PROQUEST">ocm99888414</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888414e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201751)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[179])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to that malicious letter, pretended to be sent from Brussels, by a near attendant on his Majesties person, &amp;c.</title>
+                  <author>N. P.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Maxwell,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end of text: From My house this 26. March, 1660. ... N.P.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="topical_term">Restorations, Political --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1603-1714 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:201751:1"/>
+            <head>
+               <hi>A Reply to that malicious LETTER, pretended to be sent from</hi> Brussels, <hi>by a near Attendant on his</hi> MAJESTIES <hi>Person,</hi> &amp;c.</head>
+            <opener>
+               <salute>Dear Cousin,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Was extreamly surpris'd, when upon the receipt of the inclos'd, I perceiv'd by an expression of yours, as if some sober persons had been abus'd, and taken umbrage at that malicious Paper, Intituled, <hi>News from</hi> Brussels, <hi>a pre<g ref="char:EOLhyphen"/>tended Letter from so near an Attendant on his Majesty,</hi> &amp;c. Certainly, they are of the least discerning, that can possibly subject their credits to an imposture so obnoxious, and so fertile of a Diabolical Spirit breathing in that vile Letter: But, to disabuse those tender Gentlemen, and all other good men who may haply suffer some delusion by it; know, from a Hand whose Intelligence, commerce and often presence at <hi>Brussels</hi> does inable him to distinguish and pronounce concerning things of this nature, That this pretended Letter was written, and contriv'd in <hi>London,</hi> by the malicious instigation of <hi>T. S.</hi> the assistance of Col. <hi>B. I. Har.</hi> some of their profligate gang, and the Pen of that property to all disloyalty, and inhumanity, <hi>Ne.</hi> who, as God would have it, set fall some of the very expressions, and comical periods, since published in it, to an ingenuous Friend of ours, who had casually discourse with him, a little before it came forth in print. Thus, the vanity of the Fool, betray'd his own stratagem. But to assure you that it is spu<g ref="char:EOLhyphen"/>rious, and the product of a devilish malice, it begins with a lye. <hi>The K. swore—</hi>&amp;c. You, and I, and all the world do know, what an instance his <hi>Majesty</hi> is of the highest temperance in this kind; and, that for his reverence in that particular, he is an example even to admiration. But these vile Monsters, whose despe<g ref="char:EOLhyphen"/>rate fortunes, and affrighted consciences begin now to lash them, and present them with the antepasts of Hell, for their intolerable Villanies, contrive by all the artifice and means they can, to sow Tares in the beau<g ref="char:EOLhyphen"/>tiful Field they see springing, and to discompose the happy union, and blessed Settlement of these miserable Nations, by lying, and scandalous reproaches, and such as have the father of lies and discord for their Author. The comfort is, half an eye will serve to penetrate into this wretched piece, that either consider the Style, or the Persons about the <hi>King;</hi> or his innate, religious and severe propensity to lenity, moderation, friendliness, and whatsoever may denominate a virtuous Prince, and the most dispos'd to confirm, and make good whatsoever shall be tendred to him for the composure of these mis-understandings. Of this, <hi>Dear Cousin,</hi> how many of us are witnesses, who have so frequently admired at the tenderness of his expressions, even against his bitter<g ref="char:EOLhyphen"/>est Enemies! I do protest before Almighty God, that I think his <hi>Majesty</hi> as far from any thoughts of future revenge, as the most meek, and consummate <hi>Christian</hi> upon earth: And for his fidelity, his <hi>Word</hi> is a Law of the <hi>Medes</hi> and <hi>Persians;</hi> whosoever shall obtain it, has an assurance irrefragable; for all the world, that have at all practis'd and observ'd his <hi>Majesty,</hi> know, that it is a principle radicated in him, and to have cost him sufficiently dear in the judgment of less severe persons, who have sometimes thought, one of the most Princely virtues, a disadvantage to his proceedings. But consider yet a little, and was there ever such a Rhapsody, so maliciously comprehensive of every Article, that could be imagin'd might abuse, and give jealousie to men whose fortunes and whose persons will be as secure and dear to his <hi>Majesty</hi> as the most loyal of his Subjects: For what breaths he after so passionately, as a perfect oblivion of what is past; and that he may be united to his own flew and blood, in all the bonds of charity, and princely relations? But, is it possible to imagine, that at this time, on such a conjuncture, so open and universal an affection as every where discovers it self a<g ref="char:EOLhyphen"/>mongst all the people of this Nation (the Phanatick and some desperate wretches excepted) such a Letter should be sent from <hi>Brussels?</hi> It is ridiculous, it is all together impossible: <hi>Cousin,</hi> I trouble you no longer with this idle <hi>Affaire,</hi> Wise men will not be so mistaken, Good men cannot; The easie and the credulous may be cured by this <hi>Antidote,</hi> and men must look for the efforts of an utmost rage, whilst such implacable and hel<g ref="char:EOLhyphen"/>lish spirits cannot abandon their fears, and their despairs; and that (with <hi>Kain)</hi> they dispise mercy, and think their sin greater then can be forgiven. To conclude, Cousin, I may be sorry to tell you, that his <hi>Majesty</hi> has not in all his Retinue, an Attendant so universally intelligent, and that could devise half those particulars, so domestick, and so personal; but as he has indeed none so informed; so, neither has he any about him so in<g ref="char:EOLhyphen"/>discreet and malicious. But I have already discovered you the Sourse and the Imposture; by the date, print<g ref="char:EOLhyphen"/>ing, and several particulars ill-tim'd in the Letter, I could illustrate more, and more confound it; but it is not worth it: Have patience, Dear Cousin, God will bring all to the day shortly; and it will not be in the power of wicked men (the prudence of those in Authority continuing) to frustrate his designs of mercy towards us, so long as we have a Prince thus qualified, a People so inclin'd, and Persons in power so able and so dispos'd, after all our <hi>revolutions,</hi> and deviations, to take the only just and right expedient, to render us happy and secure.</p>
+            <p>Let us beg of God that he will convert our Enemies, and make us worthy of these blessings; For so prayes</p>
+            <closer>
+               <dateline>From my House <date>this 26. <hi>March,</hi> 1660.</date>
+               </dateline>
+               <salute>(Dear Cousin)</salute>
+               <signed>Your most Affectionate, and Humble Servant, <hi>N. P.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> D. Maxwell, 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
